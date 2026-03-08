@@ -43,10 +43,10 @@ This is useful because *communicating* data science is every bit as important as
 
 ### Structure
 
-* **Lecture One**: Basic object types and an introduction to collections (tentatively Day One, 13:00-17:00)
-* **Lecture Two**: Iterating over collections, Boolean logic, advanced loops, user input, and error handling (tentatively Day Two, 13:00-17:00)
-* **Lecture Three**: Pseudocode, functions, file I/O, programming outside Python, NumPy, and random numbers (tentatively Day Three, 13:00-17:00)
-* **Lecture Four**: Data from the internet, requests, pandas, and matplotlib (tentatively Day Four, 13:00-16:00)
-* **Lecture Five**: StatsModels, scikit-learn, and text modelling for health/social/economic analysis (tentatively Day Five, 13:00-17:00)
+* **Lecture One**: Basic object types and an introduction to collections (tentatively Day One)
+* **Lecture Two**: Iterating over collections, Boolean logic, advanced loops, user input, and error handling (tentatively Day Two)
+* **Lecture Three**: Pseudocode, functions, file I/O, programming outside Python, NumPy, and random numbers (tentatively Day Three)
+* **Lecture Four**: Data from the internet, requests, pandas, and matplotlib (tentatively Day Four)
+* **Lecture Five**: StatsModels, scikit-learn, and text modelling for health/social/economic analysis (tentatively Day Five, 13:00)
 
 The lectures should take between two and a half and three hours. The first part of each of the second through fifth days will be a review of the homeworks (~15 minutes). One 'lecture' doesn't necessarily correspond *exactly* to one day: if we finish one lecture earlier on a specific day, we can move on to the next lecture. If we finish all five days of content early, we can spend the remaining time working on and discussing your own specific projects which you want to use Python for. At the end of each section of the notebooks, we will take a ~3-5 minute break from the lecture and you can play around in the notebooks following the set example question (which will then be live coded afterwards when the lectures resume). 
